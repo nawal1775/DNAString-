@@ -1,0 +1,30 @@
+The number of lines in the file is: 8
+The sum of DNA strings' length is: 54
+Mean equals: 6
+Variance equals: 0.214286
+Standard deviation equals: 0.46291
+The probability of A in the sequence equals: 0.351852, 35.1852% 19 A's
+The probability of T in the sequence equals: 0.185185, 18.5185% 10 T's
+The probability of G in the sequence equals: 0.222222, 22.2222% 12 G's
+The probability of C in the sequence equals: 0.277778, 27.7778% 15 C's 
+
+The probability of AA in the sequence equals: 0.0740741, 7.40741% 4 AA's
+The probability of AT in the sequence equals: 0.0555556, 5.55556% 3 AT's
+The probability of AG in the sequence equals: 0.0555556, 5.55556% 3 AG's
+The probability of AC in the sequence equals: 0.0555556, 5.55556% 3 AC's
+
+The probability of TA in the sequence equals: 0.0740741, 7.40741% 4 TA's
+The probability of TC in the sequence equals: 0.0740741, 7.40741% 4 TC's
+The probability of TT in the sequence equals: 0.037037, 3.7037% 2 TT's
+The probability of TG in the sequence equals: 0, 0% 0 TG's
+
+The probability of GA in the sequence equals: 0.0740741, 7.40741% 4 GA's
+The probability of GC in the sequence equals: 0.037037, 3.7037% 2 GC's
+The probability of GT in the sequence equals: 0.037037, 3.7037% 2 GT's
+The probability of GG in the sequence equals: 0.037037, 3.7037% 2 GG's
+
+The probability of CA in the sequence equals: 0.0925926, 9.25926% 5 CA's
+The probability of CT in the sequence equals: 0.0185185, 1.85185% 1 CT's
+The probability of CG in the sequence equals: 0.111111, 11.1111% 6 CG's
+The probability of CC in the sequence equals: 0.0185185, 1.85185% 1 CC's
+
